@@ -1,6 +1,6 @@
 {
   "name": "nahan-redirect",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Redirect middleware for nahan.",
   "main": "index.js",
   "scripts": {
